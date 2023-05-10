@@ -1,4 +1,4 @@
-package edu;
+package edu.메소드;
 
 public class 메소드오버로딩예제 {
 

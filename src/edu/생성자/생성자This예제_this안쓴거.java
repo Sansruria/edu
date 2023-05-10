@@ -1,4 +1,4 @@
-package edu;
+package edu.생성자;
 
 public class 생성자This예제_this안쓴거 {
 	

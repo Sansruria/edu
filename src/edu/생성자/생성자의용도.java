@@ -3,7 +3,7 @@
  * 생성자의 특징은 클래스와 이름이 같고 데이터 타입이 없다
  */
 
-package edu;
+package edu.생성자;
 
 public class 생성자의용도 {
 	String name;

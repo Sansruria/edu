@@ -1,7 +1,7 @@
 
 // 중복되는 코드를 줄여 가독성을 향상하고 재사용하기 위해서이다 
 
-package edu;
+package edu.메소드.메소드활용예제;
 
 public class 왜메소드를사용할까 {
 	int age;

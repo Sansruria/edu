@@ -19,7 +19,7 @@
  * 이런 반복 작업을 줄이기 위해서 생성자 this() 기능이 있는 것이다
  */
 
-package edu;
+package edu.생성자;
 
 public class 생성자This예제_this사용한거 {
 	

@@ -3,7 +3,7 @@
  * 메소드의 특징은 데이터 타입이 있고 데이터 타입에 따라 결과를 돌려준다 (return)
  */
 
-package edu;
+package edu.메소드;
 
 public class 메소드의용도 {
 	String name;

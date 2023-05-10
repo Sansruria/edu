@@ -1,4 +1,4 @@
-package edu;
+package edu.생성자;
 
 public class 생성자오버로딩예제 {
 	String name;

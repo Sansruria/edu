@@ -1,6 +1,6 @@
-package edu;
+package edu.메소드.메소드활용예제;
 
-public class 왜메소드를사용할까2 {
+public class 왜메소드를사용할까_메소드사용안함 {
 	int age;
 	String name;
 	String gender;
@@ -8,7 +8,7 @@ public class 왜메소드를사용할까2 {
 	String phoneNo;
 	
 	// 생성자
-	public 왜메소드를사용할까2(int age, String name, String gender, String address, String phoneNo) {
+	public 왜메소드를사용할까_메소드사용안함(int age, String name, String gender, String address, String phoneNo) {
 		this.age = age;
 		this.name = name;
 		this.gender = gender;
