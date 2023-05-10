@@ -1,4 +1,4 @@
-package edu; // 클래스 파일이 속한 패키지의 이름과 같아야 한다
+package edu.클래스; // 클래스 파일이 속한 패키지의 이름과 같아야 한다
 
 import java.util.Scanner; // 다른 패키지에 있는 클래스를 가져올 때 사용한다
 
